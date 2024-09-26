@@ -1,2 +1,2 @@
 # AutomationProjectFinal
-JAVA
+Latest version of Automation Course project.
